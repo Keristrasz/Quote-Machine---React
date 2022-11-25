@@ -6,6 +6,8 @@ import { quotesData } from "./Quotes.jsx";
 
 export default function App() {
 
+  //generate random number, to generate random quote + regex to differenciate between author and text 
+
   const regexQuote = /[^–-—]+/;
   const regexAuthor = /[–-—].+/;
   let generatedNumber = Math.floor(Math.random() * quotesData.length);

@@ -1,4 +1,10 @@
-## Running React on Repl.it
+# Quote Machine in React on Replit
+
+Quote Machine, click the button, render random new quote. Share current quote and author on twitter/tumblr by one click.
+
+## You can run this app (or check the code) on https://replit.com/@KarelJek/Quote-Machine-React#src/App.jsx
+
+### Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 

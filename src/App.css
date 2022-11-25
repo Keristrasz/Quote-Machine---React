@@ -3,7 +3,6 @@ body {
 }
 
 main {
-  
   text-align: center;
   vertical-align: center;
   background-color: #76fed5;
@@ -22,7 +21,6 @@ div {
 
 button:hover {
   background-color: #fff7c2;
-  
 }
 
 button:active {
@@ -34,7 +32,6 @@ button:active {
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  
 }
 
 #btn-new-quote {
@@ -53,7 +50,6 @@ button:active {
   height: 50px;
   margin: 10px;
   border: thick double #32a1ce;
-  
 }
 
 img {
